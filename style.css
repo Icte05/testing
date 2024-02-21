@@ -1,0 +1,39 @@
+body {
+    background-color:black;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbsxcbsaKZUgQhhEuhe4n85l5NA28Tr0SxNw&usqp=CAU);
+}
+
+.loginbox {
+    height:200px;
+    width:200px;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align:center ;
+    color: black;
+    padding: 50px;
+    border-color: black;
+    margin:auto;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 170px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+   
+}
+input[type="text"]{
+    margin-bottom: 30px;
+    margin-right:16px;
+}
+input[type="password"]{
+    margin-right:16px;
+}
+a{
+    
+    color:black;
+    font-size: 50%;
+    margin-right:14px;
+
+
+}
+a:hover{
+    color: blue;
+}
